@@ -6,6 +6,8 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [LPIC-1 101.3 Lab](https://1drv.ms/w/c/354f1c8d534fbced/EQqfNBbLmmpNsTJLqNyGLN8B31VhWYOtii0oef8hxjR46A?e=7TDC7q)
 
+[LPIC-1 101.3 notes](https://1drv.ms/w/c/354f1c8d534fbced/Ee_QXdk-4WtEt6R0c0udKC4BzTVg6EVnF-0wwHA72TAcMg?e=AiIFnH)
+
 ---
 
 ## 🚀 What I Did in This Lab
