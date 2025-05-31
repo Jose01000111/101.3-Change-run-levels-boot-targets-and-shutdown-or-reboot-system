@@ -4,7 +4,7 @@ This repository contains my hands-on lab exercises for **LPIC-1 certification**,
 
 I’ve included some helpful links to guide you through the lab and for studying afterward:
 
-[lpic-1 101.3 Lab](https://1drv.ms/w/c/354f1c8d534fbced/EQqfNBbLmmpNsTJLqNyGLN8B31VhWYOtii0oef8hxjR46A?e=7TDC7q)
+[LPIC-1 101.3 Lab](https://1drv.ms/w/c/354f1c8d534fbced/EQqfNBbLmmpNsTJLqNyGLN8B31VhWYOtii0oef8hxjR46A?e=7TDC7q)
 
 ---
 
