@@ -53,5 +53,3 @@ I checked the status of the ACPI daemon (`acpid`), installed and enabled it, exa
 How to manage ACPI events by using, configuring, and troubleshooting the `acpid` service.
 
 ---
-
----
