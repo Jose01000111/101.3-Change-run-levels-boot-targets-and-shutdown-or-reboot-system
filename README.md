@@ -8,6 +8,7 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [LPIC-1 101.3 notes](https://1drv.ms/w/c/354f1c8d534fbced/Ee_QXdk-4WtEt6R0c0udKC4BzTVg6EVnF-0wwHA72TAcMg?e=AiIFnH)
 
+[Topic 101.3 Managing Runlevels, Boot Targets, and System Shutdown/Reboot LPI Exam Objectives](https://www.lpi.org/our-certifications/exam-101-102-objectives/#101.3_Change_runlevels_.2F_boot_targets_and_shutdown_or_reboot_system)
 ---
 
 ## 🚀 What I Did in This Lab
