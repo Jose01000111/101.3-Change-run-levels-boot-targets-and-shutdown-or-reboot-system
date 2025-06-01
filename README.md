@@ -29,7 +29,7 @@ I learned how to check and change the system’s default boot target with `syste
 
 #### 🔹 Confirm the default target symlink:
 
-#### 🔹 (Optional) View legacy SysVinit file:
+#### 🔹 (Optional) View legacy SysVinit file: (I used an Ubuntu machine therefore: Instead of /etc/inittab, Ubuntu uses systemd targets to manage boot levels.)
 
 ### 📚 What I Learned  
 How to check and set default boot targets using `systemctl` and understand legacy SysVinit configurations.
@@ -61,9 +61,10 @@ I explored commands to safely **shutdown**, **reboot**, **halt**, and **power of
 
 #### 🔁 Reboot immediately
 
-#### 🔻 Power off immediately
+#### 🔻 Power off immediately (unable to screenshot) 
 
-#### 🔕 Halt system (no power off)
+#### 🔕 Halt system (no power off) What does halt do?
+halt immediately stops the CPU without necessarily powering off the machine.
 
 ### 📚 What I Learned  
 How to safely shutdown, reboot, halt, or power off the system immediately or on schedule with user notifications.
