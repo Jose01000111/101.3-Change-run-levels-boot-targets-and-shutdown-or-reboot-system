@@ -34,7 +34,6 @@ I learned how to check and change the system’s default boot target with `syste
 ![89gwe0p](https://github.com/user-attachments/assets/543c70b7-8278-47ad-8673-b7bea02c94a7)
 
 #### 🔹 (Optional) View legacy SysVinit file: (I used an Ubuntu machine therefore: Instead of /etc/inittab, Ubuntu uses systemd targets to manage boot levels.)
-
 ![iYcMnz8](https://github.com/user-attachments/assets/3823a697-a6ed-4e46-8a3d-6316f2c14496)
 
 ### 📚 What I Learned  
